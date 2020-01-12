@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+header{
+	background-color: lavender;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
+
+h1, h2{
+	font-family: 'Baloo Bhai', cursive;
+
+}
+
+header h1{
+	color: rebeccapurple;
+	font-size: 70px;
+
+}
+
+header img{
+	border-radius: 318px;
+	width: 300px;
+	border: 15px solid magenta;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+/*for the margin, the first value is top and bottom, then left and right. auto center aligns it*/
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: darkturquoise;
+}
+
+a{
+	color: darkturquoise;
+}
+/*make the link change color when you hover over it*/
+a:hover{
+	color: rebeccapurple;
+}
+
+footer{
+	background-color: turquoise;
+	text-align: center;
+	color: white;
+	padding: 20px 100px;
+}
+
+p.caption{
+	color: rebeccapurple;
+	font-size: 20px;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
+
+
